@@ -24,7 +24,7 @@ Computer Graphics course project
 ## Who
 **Authors**
 * [Reem Alotmi (Me)](https://github.com/ReemAlotmi)
-* [Basayl Ali]()
-* [Fadyah Alsharaani]()
+* [Basayl Ali](https://github.com/Basayl)
+* [Fadyah Alsharaani](https://github.com/fadyah1)
 * [Shaima Hisham]()
 * [Azhar Alzhrani]()
